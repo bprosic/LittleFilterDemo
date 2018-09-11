@@ -6,7 +6,7 @@ Colleagues wanted to get rows with last three indexes stored in column two (ID_N
 This could be done in Excel using macros. I don't know if Excel would affect performance or loss of information.
 
 I decided using C#.
-This could be done in a console, but people are affraid of black windows ;)
+This could be done in a console, but people are afraid of black windows ;)
 
 There is an example file in folder "Data for manipulation".
 This file is just for demonstration. Usually it contains lots of data rows (mine was 7000++).
