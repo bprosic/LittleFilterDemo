@@ -4,7 +4,6 @@
  * Date: 11.9.2018.
  * Time: 9:23
  * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
 using System.ComponentModel;
@@ -13,7 +12,7 @@ using System.Reflection;
 namespace LittleProjectDemo
 {
 	/// <summary>
-	/// Is this good alternative for Global Varaibles ??
+	/// Global variables
 	/// </summary>
 	public class ParametersClass
 	{
@@ -72,7 +71,7 @@ namespace LittleProjectDemo
 			set { artIndexNum_ = value; }
 		}
 		
-		//ist diese logik ok???
+		// class variables
 		public static LittleProjectDemoClass Tc {
 			get{ return tc_; }
 			set { tc_ = value; }
