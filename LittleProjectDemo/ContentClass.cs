@@ -4,7 +4,6 @@
  * Date: 11.9.2018.
  * Time: 9:21
  * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
 using System.Collections.Generic;
@@ -12,12 +11,7 @@ using System.Collections.Generic;
 namespace LittleProjectDemo
 {
 	/// <summary>
-	// There are people who don't like this. Let me explain:
-	// I have a class "LittleProjectDemo" and I like to leave a class as is
-	// If I put function in this "LittleProjectDemo" class, then I would have only one object later in project. That is true.
-	// But if I create another class, a function that refers to LittleProjectDemo Class, then I have two objects later and then it is a bit messy code.
-	// I know, this is shit.
-	// But, class stays a class without functions.
+	// data structure
 	/// </summary>
 	
 	#region LittleProjectDemoClass
